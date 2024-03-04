@@ -15,15 +15,16 @@ This repository contains the code for a special website dedicated to celebrating
 
 ## How to Run
 
-    1. **Clone the Repository:**
+1. Clone the Repository:
+
         ```bash
         git clone https://github.com/your-username/charles-anniversary-website.git
         ```
 
-    2. **Open index.html in a Browser:**
+2. Open index.html in a Browser:
         Simply double-click on the `index.html` file to open it in your default web browser.
 
-    3. **Explore the Website:**
+3. Explore the Website:
         Navigate through the sections and relive the beautiful moments we've shared.
 
 ## Contributions
