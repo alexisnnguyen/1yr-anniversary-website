@@ -602,7 +602,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("../img/us.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
@@ -765,7 +765,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../img/polaroid.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
