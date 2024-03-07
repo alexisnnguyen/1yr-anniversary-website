@@ -15,7 +15,7 @@ This repository contains the code for a special website dedicated to celebrating
 
 ## How to Run
 
-1.  Clone the Repository:
+1.  Clone the repository on your terminal:
 
         git clone https://github.com/your-username/charles-anniversary-website.git
 
